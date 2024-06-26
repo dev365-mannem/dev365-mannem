@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dev365-mannem
-- 👀 I’m interested in building software application
+- 👀 I’m interested in building software applications 
 - 🌱 I’m currently working as SDE 2
 - 💞️ I’m looking to collaborate on https://codingchallenges.fyi/
 
